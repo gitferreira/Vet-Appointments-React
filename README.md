@@ -4,7 +4,7 @@
 
 Simple React project to manage the vet appointments for your pets. 
 
-![ironotes-home](preview.JPG)
+![vet-appointments](preview.JPG)
 
 ## Start the app 🚀
 

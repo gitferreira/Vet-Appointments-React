@@ -4,7 +4,7 @@
 
 Simple React project to manage the vet appointments for your pets. 
 
-![vet-appointments](preview.JPG)
+![vet-appointments](preview.PNG)
 
 ## Start the app 🚀
 
